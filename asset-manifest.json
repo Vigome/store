@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/store/static/css/main.3e9729a4.chunk.css",
+    "main.js": "/store/static/js/main.37a8656b.chunk.js",
+    "main.js.map": "/store/static/js/main.37a8656b.chunk.js.map",
+    "runtime~main.js": "/store/static/js/runtime~main.852bf9be.js",
+    "runtime~main.js.map": "/store/static/js/runtime~main.852bf9be.js.map",
+    "static/js/2.d6935195.chunk.js": "/store/static/js/2.d6935195.chunk.js",
+    "static/js/2.d6935195.chunk.js.map": "/store/static/js/2.d6935195.chunk.js.map",
+    "index.html": "/store/index.html",
+    "precache-manifest.e7eee7fd46f52738744519983479b505.js": "/store/precache-manifest.e7eee7fd46f52738744519983479b505.js",
+    "service-worker.js": "/store/service-worker.js",
+    "static/css/main.3e9729a4.chunk.css.map": "/store/static/css/main.3e9729a4.chunk.css.map",
+    "static/media/PogChamp.png": "/store/static/media/PogChamp.93a7fd8b.png",
+    "static/media/pepe.png": "/store/static/media/pepe.1f11e8f0.png"
+  }
+}
